@@ -16,3 +16,4 @@
     -版本库（Repository）  
     -工作区有个隐藏目录 .git ，这个不算工作区，而是 Git 的版本库  
     -版本库里面的 index(stage) 文件叫暂存区，还有Git为我们自动创建的第一个分支 master ，以及指向 master 的一个指针叫做 HEAD  
+我的github项目地址：https://github.com/Eliauk-kuroshio/xiaoyuandaohang  
